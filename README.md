@@ -8,9 +8,9 @@
 <br/>
 <br/>
 
-[![Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwillsanderson%2FHemma%2Fmain%2Fcustom_components%2Fhemma%2Fmanifest.json&query=%24.version&label=version&style=flat-square&color=E07A4E&labelColor=2A2420)](https://github.com/willsanderson/Hemma/releases/latest)
+[![Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhuxtab-del%2FHemma%2Fmain%2Fcustom_components%2Fhemma%2Fmanifest.json&query=%24.version&label=version&style=flat-square&color=E07A4E&labelColor=2A2420)](https://github.com/huxtab-del/Hemma/releases/latest)
 [![Home Assistant](https://img.shields.io/badge/Home%20Assistant-2026.9%2B-E07A4E?style=flat-square&labelColor=2A2420&logo=homeassistant&logoColor=white)](https://www.home-assistant.io)
-[![Marketplace](https://img.shields.io/badge/Marketplace-Hemma-E07A4E?style=flat-square&labelColor=2A2420)](https://my.home-assistant.io/redirect/hacs_repository/?owner=willsanderson&repository=Hemma&category=integration)
+[![Marketplace](https://img.shields.io/badge/Marketplace-Hemma-E07A4E?style=flat-square&labelColor=2A2420)](https://my.home-assistant.io/redirect/hacs_repository/?owner=huxtab-del&repository=Hemma&category=integration)
 
 <a href="#install">Install</a>&emsp;<a href="#set-up">Set up</a>&emsp;<a href="#using-it">Using it</a>&emsp;<a href="#studio">Studio</a>&emsp;<a href="CHANGELOG.md">Changelog</a>
 
@@ -86,9 +86,9 @@ Brand new screensavers available, perfect for any tablet, on a stand or mounted 
 <a id="install"></a>
 ## Install
 
-[![Open in the Marketplace](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=willsanderson&repository=Hemma&category=integration)
+[![Open in the Marketplace](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=huxtab-del&repository=Hemma&category=integration)
 
-Open the link above, or add `https://github.com/willsanderson/Hemma` as a custom repository under **Settings > Marketplace** (called HACS before Home Assistant 2026.11). Download **Hemma**, plus **[UI eXtension](https://github.com/Lint-Free-Technology/uix)** and **[button-card](https://github.com/custom-cards/button-card)** 7.0.0 or newer if you don't have them, then restart Home Assistant.
+Open the link above, or add `https://github.com/huxtab-del/Hemma` as a custom repository under **Settings > Marketplace** (called HACS before Home Assistant 2026.11). Download **Hemma**, plus **[UI eXtension](https://github.com/Lint-Free-Technology/uix)** and **[button-card](https://github.com/custom-cards/button-card)** 7.0.0 or newer if you don't have them, then restart Home Assistant.
 
 You need **Home Assistant 2026.9** or newer. Use UI eXtension instead of card-mod, not both.
 

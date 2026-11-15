@@ -5,7 +5,7 @@
     "recorder"
   ],
   "codeowners": [
-    "@willsanderson"
+    "@huxtab-del"
   ],
   "config_flow": true,
   "dependencies": [
@@ -14,10 +14,10 @@
     "lovelace",
     "websocket_api"
   ],
-  "documentation": "https://github.com/willsanderson/Hemma",
+  "documentation": "https://github.com/huxtab-del/Hemma",
   "integration_type": "service",
   "iot_class": "local_push",
-  "issue_tracker": "https://github.com/willsanderson/Hemma/issues",
+  "issue_tracker": "https://github.com/huxtab-del/Hemma/issues",
   "requirements": [],
   "version": "2.4.1"
 }
